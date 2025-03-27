@@ -4,7 +4,7 @@ esbuild plugin which helps to mark some files references from stylesheet (e.g. i
 
 ## Use case
 
-The plugin us useful when images or/and fonts which defined in css file are already located
+The plugin is useful when images or/and fonts which defined in css file are already located
 in a public storage for static files. For example, the source code of stylesheet `style.css`
 references to image:
 
